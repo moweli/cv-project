@@ -1,2 +1,1 @@
-# cv-project
-Azure CV project
+# Azure cv-project
